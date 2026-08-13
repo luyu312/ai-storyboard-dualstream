@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 影视分镜双流编译器 V8"
+  short_description: "把小说与剧本忠实编译为十秒内结构化AI视频分镜提示词"
+  default_prompt: "使用 $ai-storyboard-dualstream 将这段剧情编译为可直接生成的10秒分镜提示词。"
